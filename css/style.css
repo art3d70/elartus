@@ -9,5 +9,20 @@ html{
 }
 
 body{
+	background: #0065C9;
+	color:white;
 	font-family: Helvetica,Arial;
+	text-align: center;
+}
+
+section{
+	border-radius: 10px;
+	margin: auto;
+	padding: 5px;
+	margin-top: 1%;
+	width: 400px;
+}
+
+.tira{
+	/*background: #ffcc00;*/
 }
